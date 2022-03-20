@@ -1,2 +1,2 @@
-# github_starter_src
+# starterpack
 This my starter pack.
